@@ -1,0 +1,23 @@
+{
+  "name": "textprocessor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParkerFink/TextProcessor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParkerFink/TextProcessor/issues"
+  },
+  "homepage": "https://github.com/ParkerFink/TextProcessor#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
